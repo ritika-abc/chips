@@ -1,0 +1,17 @@
+.section-featured-products {
+  position: relative;
+}
+.section-featured-products .product__media-item {
+  max-width: 400px;
+  margin: 0 auto;
+}
+.section-featured-products .product__media-icon {
+  display: none;
+}
+.section-featured-products .product__media-toggle {
+  display: none;
+}
+.section-featured-products .product__media-item .product__media {
+  background: transparent;
+  background-color: translate;
+}
